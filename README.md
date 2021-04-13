@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @glyph207
-- 👀 I’m interested in c++ rust lua
+- 👀 I’m interested in c++ qt rust lua
 - 🌱 I’m currently learning hpc, software architecture
 - 📫 How to reach me: m@nosolonin.ru
 
